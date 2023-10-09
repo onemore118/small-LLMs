@@ -5,6 +5,9 @@ A development branch of large language models is aimed at those that can operate
 
 Thus, this repository is used to collect the currently advanced models on the market that can run on lower-spec machines, either as small models or as quantized variants of larger models.
 
+
+# 2023-10
+
 ## LLAMAs
 [karpathy/llama2.c](https://github.com/karpathy/llama2.c)
 
